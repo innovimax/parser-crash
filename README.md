@@ -18,9 +18,9 @@ There is hundreds of way to crash a parser.
 for a start and let's see where get
 
 ## How?
- # Well there is java codes that generates the data files
- # And then you just run them through your favorite parser
- # and then you share the results so we can improve the parser generator
+ 1. Well there is java codes that generates the data files
+ 2. And then you just run them through your favorite parser
+ 3. and then you share the results so we can improve the parser generator
 
 ## Why?
 It started by a discussion around node density about HTML, XML and JSON (the usual suspects about being to verbose)
